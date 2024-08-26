@@ -1,0 +1,1 @@
+query_id=AAEndq0kAwAAACd2rSRN5iaL&user=%7B%22id%22%3A7057798695%2C%22first_name%22%3A%22C%C6%B0%E1%BB%9Dng%22%2C%22last_name%22%3A%22Mai%22%2C%22username%22%3A%22icerplusplus%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1724658098&hash=3fab7d22a76797ab4ae1387e90135f69b7df29a89c9bee985e64336225cca9fa
